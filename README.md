@@ -1,4 +1,4 @@
 # Mysession
-This is demo repository
-Author: Anil Giri
 
+This is demo repository
+Author: Anil Giri Mumbai
